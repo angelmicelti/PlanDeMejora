@@ -2,7 +2,7 @@
   "name": "Plan de Mejora - IES Virgen de Villadiego",
   "short_name": "Plan Mejora",
   "description": "Aplicación para gestionar el Plan de Mejora del IES Virgen de Villadiego",
-  "start_url": "/PlanDeMejora/index.html",
+  "start_url": "/PlanDeMejora/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd",
