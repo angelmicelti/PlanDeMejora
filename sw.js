@@ -1,11 +1,11 @@
 const CACHE_NAME = 'plan-mejora-v1';
 const urlsToCache = [
   '/',
-  '/index.html',
-  '/manifest.json',
-  '/icons/icon-72x72.png',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png'
+  '/PlanDeMejora/index.html',
+  '/PlanDeMejora/manifest.json',
+  '/PlanDeMejora/icons/icon-72x72.png',
+  '/PlanDeMejora/icons/icon-192x192.png',
+  '/PlanDeMejora/icons/icon-512x512.png'
 ];
 
 self.addEventListener('install', function(event) {
